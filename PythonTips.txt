@@ -1,0 +1,14 @@
+print() #allows Python to display output
+
+#Arithemtic Operators
++ #addition
+- #subtraction
+* #multiplication
+/ #division
+% #modulo - remainder
+** #exponentiation
+// #integer division - quotient
+^ #bitwise XOR (usually outside scope)
+
+=  #assignment operator
+
